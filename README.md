@@ -35,7 +35,7 @@ Vulnerability #2: Cross-Site Scripting (XSS)
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
-<img src='http://i.imgur.com/EPseWez.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/tKdIPKs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Vulnerability #2: Cross-Site Request Forger (CSRF)
 - Invalid CSRF token will still allow the form submission to be valid.
